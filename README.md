@@ -1,14 +1,14 @@
-<h2 align="centre"><b>It'z me CLÆ͜͡Ｙ</b></h2>
+<h1 align="centre"><b>It'z me CLÆ͜͡Ｙ</b></h1>
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CLaY9950.CLaY9950) [![Github](https://img.shields.io/github/followers/CLaY9950?label=Follow&style=social)](https://github.com/CLaY9950)
+![](https://visitor-badge.laobi.icu/badge?page_id=CLaY9950.CLaY9950) [![Github](https://img.shields.io/github/followers/CLaY9950?label=Follow&style=social)](https://github.com/CLaY9950) [![Join Telegram CHANNEL](https://img.shields.io/badge/Join%20Telegram%20Channel-Click%20Here-blue)](https://t.me/PrimeFlixMedia_All)
 <p align="center">
    <a href="https://github.com/CLaY9950/CLaY9950"><img src="https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg" alt="Userge-x" width=400px></a>
    <br>
 </p>
 <br>
 
-### I'm just a NooB; Infact a Total Noob 🤓
+<h2 align="centre">I'm just a NooB; Infact a Total Noob 🤓<h2>
 
 ```
 - 👋 Hi, I’m CLAEY
