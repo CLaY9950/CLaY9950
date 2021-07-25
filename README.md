@@ -9,13 +9,11 @@
 
 ### I'm just a NooB; Infact a Total Noob 🤓
 
+```
 - 👋 Hi, I’m CLAEY
-
-
 - 👀 I’m interested in many Stuffs😋😒...
-
-
 - 🌱 I’m currently learning ACCA 😅😂...
+```
 
 <!---
 CLaY9950/CLaY9950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
