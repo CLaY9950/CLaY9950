@@ -6,7 +6,10 @@
    <a href="https://github.com/CLaY9950/CLaY9950"><img src="https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg" alt="Userge-x" width=400px></a>
    <br>
 </p>
-<br>
+<h3> You can Find Me:-</h3>
+
+[![telegram badge](https://img.shields.io/badge/@CLaY995-30302f?style=for-the-badge&logo=telegram)](https://t.me/CLaY995)
+
 
 <h2 align="centre">I'm just a NooB; Infact a Total Noob 🤓<h2>
 
