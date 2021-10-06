@@ -1,4 +1,4 @@
-><h2 align="center"> Hi 👋 , It'Z me  CLÆ͜͡Ｙ <br/></h2> 
+<h2 align="center"> Hi 👋 , It'Z me  CLÆ͜͡Ｙ <br/></h2> 
 <h3 align="center">I'm not a coder, Just a Dude who has passion for coding but knows shit about it. <br> <br>
 
    <a href="https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg?raw=true)</a>
