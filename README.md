@@ -62,3 +62,5 @@ MyDatas = {
 
 print("Press 'F' to pay respects")
 ```
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
