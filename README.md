@@ -4,7 +4,7 @@
 </h2>
 <h3>:man_technologist: About me:</h3>
 
-- :telescope: I’m an ACCA student :books:.
+- :telescope: I’m basically an ACCA student :books:.
 
 - :seedling: I'm currently learning Python, html, CSS & JavaScript .
 
