@@ -21,10 +21,6 @@
   <p><b>You can find me on:</b></p>
   <a href="https://t.me/CLaY995">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="beeeh36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
   <a href="https://instagram.com/_shaheen.m_">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=red&style=for-the-badge" alt="Twitter Badge"/>
   </a>
