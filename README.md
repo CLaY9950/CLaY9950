@@ -10,7 +10,7 @@
 
 - :zap: I just code in my free time.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-!ClayXD-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/CLaY9950)
+- :mailbox: How to reach me: [![Tg Badge](https://img.shields.io/badge/-!ClayXD-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/CLaY995)
 
 
 <div id="header" align="center">
