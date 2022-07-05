@@ -1,9 +1,17 @@
-<div id="heading" align="centre">
- <h2>
+<h2>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
- </h2>
-</div>
+</h2>
+<h3>:man_technologist: About me:</h3>
+
+- :telescope: I’m an ACCA student :books:.
+
+- :seedling: I'm currently learning Python, html, CSS & JavaScript .
+
+- :zap: I just code in my free time.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-!ClayXD-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/CLaY9950)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -13,6 +21,9 @@
   <p><b>You can find me on:</b></p>
   <a href="https://t.me/CLaY995">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="beeeh36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://instagram.com/_shaheen.m_">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=red&style=for-the-badge" alt="Twitter Badge"/>
@@ -40,29 +51,4 @@
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CLaY9950&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLaY9950&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## :man_technologist: About me:
-```py
-# Im not a professional developer.
-# still learning
-# I just do some random coding in my free time
-# Trying to hold a place in commerce & tech field simultaneously
-
-MyDatas = {
-    "name": "Shaheen",
-    "age": 21,
-    "place": "India 🇮🇳",
-    "profession": "ACCA Student",
-    "hobbies": [
-        "songs",
-        "gaming",
-        "programming",
-        "vilachil"
-    ],
-    "currently_learning": ("python", "golang")
-}
-
-print("Press 'F' to pay respects")
-```
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</br>
