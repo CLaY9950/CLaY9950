@@ -21,7 +21,8 @@
  ### You can also find me Here: [![telegram badge](https://img.shields.io/badge/@CLaY995-30302f?style=for-the-badge&logo=telegram)](https://t.me/CLaY995)
 
 ```py
-# Im not a developer.
+# Im not a professional developer.
+# still learning
 # I just do some random coding in my free time
 # Trying to hold a place in commerce & tech field simultaneously
 
