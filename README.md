@@ -4,9 +4,11 @@
 </h2>
 <h3>:man_technologist: About me:</h3>
 
+- :boy: My name is ```Muhammed Shaheen```
+
 - :telescope: I’m basically an ACCA student :books:.
 
-- :seedling: I'm currently learning Python, html, CSS & JavaScript .
+- :seedling: I'm currently learning Python, html, CSS, PHP & JavaScript .
 
 - :zap: I just code in my free time.
 
@@ -42,6 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/CLaY9950/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
 </div>
 
 ## :fire: My Stats:
