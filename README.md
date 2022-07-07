@@ -39,12 +39,15 @@
 </div>
 </br>
 <div id="tools">
-  <p><b>Languages & Tools:</b></p>
+  <p><b>Languages:</b></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/CLaY9950/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <p><b>Tools:</b></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/CLaY9950/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/CLaY9950/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="50" height="50"/>&nbsp;
+
 </div>
 
 ## :fire: My Stats:
