@@ -31,10 +31,10 @@
 <div id="other-badges" align="centre">
   <p><b>Profile Stats 📊:</b></p>
   <a href="https://github.com/CLaY9950">
-    <img alt="Followers" src="https://img.shields.io/github/followers/CLaY9950?label=Followers&logo=github">
+    <img alt="Followers" src="https://img.shields.io/github/followers/CLaY9950?label=Followers&style=flat-square&logo=github">
   </a> 
   <a href="https://github.com/CLaY9950">
-    <img src="https://komarev.com/ghpvc/?username=CLaY9950&label=Views&color=brightgreen" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=CLaY9950&label=Profile Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
 </div>
 </br>
